@@ -1,1 +1,2 @@
-core
+X = 5
+print("helloworld")
