@@ -1,0 +1,11 @@
+[
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "core",
+        "description": "core",
+        "peekOfCode": "X = 5\nprint(\"helloworld\")\na",
+        "detail": "core",
+        "documentation": {}
+    }
+]
