@@ -4,8 +4,4 @@
   "workbench.list.smoothScrolling": true,
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  "python.defaultInterpreterPath": "C:UsersFardaminiconda3envsds_llmpython.exe",
-  "jupyter.defaultKernelLanguage": "python",
-  "jupyter.preferredJupyterLanguage": "python",
-  "jupyter.use  rkerPathAsConda  Environment": true
 }
